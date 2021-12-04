@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "dashboard-firebase-angular": {
+      "hosting": {
+        "dashboard-firebase-angular": [
+          "dashboard-firebase-angular"
+        ]
+      }
+    }
+  }
+}
