@@ -10,10 +10,10 @@ This project was created using Angular
 
 Angular Material
 ```
-$ ng add @angular/material
+ng add @angular/material
 ```
 
 Firebase
 ```
-$ ng add @angular/fire
+ng add @angular/fire
 ```
